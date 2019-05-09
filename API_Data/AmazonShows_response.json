@@ -1,0 +1,1298 @@
+{
+    "total_results": 64,
+    "total_returned": 64,
+    "results": [
+        {
+            "id": 33297,
+            "title": "Sneaky Pete",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-08-07",
+            "imdb_id": "tt5011816",
+            "tvdb": 300166,
+            "themoviedb": 64199,
+            "freebase": null,
+            "wikipedia_id": 47942695,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/111615/thumbnails_small/33297-2672223617-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/111615/thumbnails_medium/33297-513000256-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/111615/thumbnails_large/33297-7280233628-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/111615/thumbnails_xlarge/33297-3364854907-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 24885,
+            "title": "The Man in the High Castle",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-01-15",
+            "imdb_id": "tt1740299",
+            "tvdb": 295829,
+            "themoviedb": 62017,
+            "freebase": null,
+            "wikipedia_id": 45111069,
+            "tvrage": {
+                "tvrage_id": 34577,
+                "link": "http://www.tvrage.com/shows/id-34577"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/120214/thumbnails_small/24885-1111294628-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/120214/thumbnails_medium/24885-3200115073-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/120214/thumbnails_large/24885-225090618-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/120214/thumbnails_xlarge/24885-2027612501-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 19367,
+            "title": "Bosch",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-02-13",
+            "imdb_id": "tt3502248",
+            "tvdb": 277928,
+            "themoviedb": 60585,
+            "freebase": "/m/0_s4fhj",
+            "wikipedia_id": 41974768,
+            "tvrage": {
+                "tvrage_id": 36430,
+                "link": "http://www.tvrage.com/shows/id-36430"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/022615/thumbnails_small/19367-6216263687-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/022615/thumbnails_medium/19367-8667029398-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/022615/thumbnails_large/19367-7142098904-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/022615/thumbnails_xlarge/19367-862685997-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 19586,
+            "title": "Mozart in the Jungle",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-02-06",
+            "imdb_id": "tt3502172",
+            "tvdb": 278335,
+            "themoviedb": 61744,
+            "freebase": "/m/0_fnbt4",
+            "wikipedia_id": 41705111,
+            "tvrage": {
+                "tvrage_id": 38225,
+                "link": "http://www.tvrage.com/shows/id-38225"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/120214/thumbnails_small/19586-6170841730-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/120214/thumbnails_medium/19586-1403662744-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/120214/thumbnails_large/19586-3807297805-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/120214/thumbnails_xlarge/19586-4552634181-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 44612,
+            "title": "The Tick (2017)",
+            "alternate_titles": [
+                "The Tick",
+                "The Tick (2016)"
+            ],
+            "container_show": 0,
+            "first_aired": "2016-08-19",
+            "imdb_id": "tt5540054",
+            "tvdb": 317654,
+            "themoviedb": 67487,
+            "freebase": null,
+            "wikipedia_id": 52857075,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/44612-4045406375-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/44612-6168999374-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/44612-9247200549-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/44612-5913224523-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 20477,
+            "title": "Red Oaks",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-08-28",
+            "imdb_id": "tt3973820",
+            "tvdb": 284641,
+            "themoviedb": 63130,
+            "freebase": null,
+            "wikipedia_id": 44500428,
+            "tvrage": {
+                "tvrage_id": 41283,
+                "link": "http://www.tvrage.com/shows/id-41283"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/120214/thumbnails_small/20477-169775174-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/120214/thumbnails_medium/20477-8619605139-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/120214/thumbnails_large/20477-6368232029-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/120214/thumbnails_xlarge/20477-8261387320-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 32653,
+            "title": "Catastrophe (2015)",
+            "alternate_titles": [
+                "Catastrophe"
+            ],
+            "container_show": 0,
+            "first_aired": "2015-01-19",
+            "imdb_id": "tt4374208",
+            "tvdb": 289771,
+            "themoviedb": 61920,
+            "freebase": null,
+            "wikipedia_id": 45065093,
+            "tvrage": {
+                "tvrage_id": 42962,
+                "link": "http://www.tvrage.com/shows/id-42962"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/111615/thumbnails_small/32653-5715935579-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/111615/thumbnails_medium/32653-3031740319-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/111615/thumbnails_large/32653-7639916967-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/111615/thumbnails_xlarge/32653-113556982-608x342.jpg"
+        },
+        {
+            "id": 20476,
+            "title": "Hand Of God",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-08-28",
+            "imdb_id": "tt3973768",
+            "tvdb": 284643,
+            "themoviedb": 61263,
+            "freebase": null,
+            "wikipedia_id": 43704362,
+            "tvrage": {
+                "tvrage_id": 40531,
+                "link": "http://www.tvrage.com/shows/id-40531"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091414/thumbnails_small/20476-9952534209-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091414/thumbnails_medium/20476-9821232534-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091414/thumbnails_large/20476-1389072496-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091414/thumbnails_xlarge/20476-5869452446-608x342.jpg"
+        },
+        {
+            "id": 19557,
+            "title": "Transparent",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-02-06",
+            "imdb_id": "tt3502262",
+            "tvdb": 278334,
+            "themoviedb": 61406,
+            "freebase": "/m/0_qfb20",
+            "wikipedia_id": 41919722,
+            "tvrage": {
+                "tvrage_id": 37044,
+                "link": "http://www.tvrage.com/shows/id-37044"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/041014/thumbnails_small/19557-5767976544-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/041014/thumbnails_medium/19557-1172384168-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/041014/thumbnails_large/19557-9055926213-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/041014/thumbnails_xlarge/19557-3524096427-608x342.jpg"
+        },
+        {
+            "id": 36955,
+            "title": "Thunderbirds Are Go",
+            "alternate_titles": [
+                "Thunderbirds Are Go!"
+            ],
+            "container_show": 0,
+            "first_aired": "2016-04-22",
+            "imdb_id": "tt3138604",
+            "tvdb": 266631,
+            "themoviedb": 62290,
+            "freebase": "/m/010x7q0f",
+            "wikipedia_id": 43082253,
+            "tvrage": {
+                "tvrage_id": 38148,
+                "link": "http://www.tvrage.com/shows/id-38148"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/111615/thumbnails_small/36955-7043045549-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/111615/thumbnails_medium/36955-4842258189-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/111615/thumbnails_large/36955-7526013376-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/111615/thumbnails_xlarge/36955-8171110116-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 24878,
+            "title": "Just Add Magic",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-01-15",
+            "imdb_id": "tt3952746",
+            "tvdb": 299140,
+            "themoviedb": 62904,
+            "freebase": null,
+            "wikipedia_id": 48972292,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/111615/thumbnails_small/24878-8704369985-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/111615/thumbnails_medium/24878-5520728975-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/111615/thumbnails_large/24878-686425018-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/111615/thumbnails_xlarge/24878-887984587-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 35043,
+            "title": "One Mississippi",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-11-05",
+            "imdb_id": "tt4947608",
+            "tvdb": 315323,
+            "themoviedb": 64515,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/35043-515835514-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/35043-9112261603-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/35043-9602031805-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/35043-2602788760-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 19583,
+            "title": "Gortimer Gibbon's Life On Normal Street",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-02-06",
+            "imdb_id": "tt3496764",
+            "tvdb": 278546,
+            "themoviedb": 60610,
+            "freebase": null,
+            "wikipedia_id": 45484187,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/111615/thumbnails_small/19583-3992739869-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/111615/thumbnails_medium/19583-6194613026-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/111615/thumbnails_large/19583-8478799625-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/111615/thumbnails_xlarge/19583-9692191947-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 17045,
+            "title": "Alpha House",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2013-04-19",
+            "imdb_id": "tt3012160",
+            "tvdb": 269008,
+            "themoviedb": 60719,
+            "freebase": "/m/0w7yj6w",
+            "wikipedia_id": 40993880,
+            "tvrage": {
+                "tvrage_id": 34454,
+                "link": "http://www.tvrage.com/shows/id-34454"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/new_thumbs/thumbnails_small/17045-1273509297-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/new_thumbs/thumbnails_medium/17045-2147602700-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/new_thumbs/thumbnails_large/17045-7386854188-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/new_thumbs/thumbnails_xlarge/17045-8662803666-608x342.jpg"
+        },
+        {
+            "id": 19548,
+            "title": "Annedroids",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-07-25",
+            "imdb_id": "tt3012532",
+            "tvdb": 286246,
+            "themoviedb": 62683,
+            "freebase": null,
+            "wikipedia_id": 45656710,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/041014/thumbnails_small/19548-5491500362-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/041014/thumbnails_medium/19548-4836747111-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/041014/thumbnails_large/19548-1358888611-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/041014/thumbnails_xlarge/19548-5457846313-608x342.jpg"
+        },
+        {
+            "id": 17067,
+            "title": "Betas",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2013-04-19",
+            "imdb_id": "tt3012184",
+            "tvdb": 269003,
+            "themoviedb": 57284,
+            "freebase": "/m/0wplny5",
+            "wikipedia_id": 20114016,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/041014/thumbnails_small/17067-4583178428-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/041014/thumbnails_medium/17067-2368596257-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/041014/thumbnails_large/17067-9671450131-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/041014/thumbnails_xlarge/17067-4898074283-608x342.jpg"
+        },
+        {
+            "id": 24886,
+            "title": "The New Yorker Presents",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-01-15",
+            "imdb_id": "tt4115864",
+            "tvdb": 0,
+            "themoviedb": 65632,
+            "freebase": null,
+            "wikipedia_id": 50530160,
+            "tvrage": {
+                "tvrage_id": 47383,
+                "link": "http://www.tvrage.com/shows/id-47383"
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/24886-9975858246-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/24886-1147268797-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/24886-5223968322-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/24886-5462110527-608x342.jpg"
+        },
+        {
+            "id": 19234,
+            "title": "Tumble Leaf",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-06-03",
+            "imdb_id": "tt2948562",
+            "tvdb": 282420,
+            "themoviedb": 65047,
+            "freebase": null,
+            "wikipedia_id": 43702650,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/120214/thumbnails_small/19234-1908357358-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/120214/thumbnails_medium/19234-2073818101-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/120214/thumbnails_large/19234-8636823198-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/120214/thumbnails_xlarge/19234-1619142001-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 34854,
+            "title": "If You Give a Mouse a Cookie",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-11-05",
+            "imdb_id": "tt7344644",
+            "tvdb": 328620,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/34854-9804429719-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/34854-4503738140-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/34854-4595025689-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/34854-1747013103-608x342.jpg"
+        },
+        {
+            "id": 19235,
+            "title": "Wishenpoof!",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-02-06",
+            "imdb_id": "tt3496824",
+            "tvdb": 0,
+            "themoviedb": 70082,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/041014/thumbnails_small/19235-3040772020-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/041014/thumbnails_medium/19235-1170648942-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/041014/thumbnails_large/19235-8090728768-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/041014/thumbnails_xlarge/19235-5886511085-608x342.jpg"
+        },
+        {
+            "id": 19263,
+            "title": "Creative Galaxy",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-06-27",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/041014/thumbnails_small/19263-8523335429-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/041014/thumbnails_medium/19263-3252863116-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/041014/thumbnails_large/19263-9972197324-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/041014/thumbnails_xlarge/19263-6837596297-608x342.jpg"
+        },
+        {
+            "id": 24879,
+            "title": "Mad Dogs",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-01-15",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/24879-9073266624-208x117-show-thumbnail.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/24879-2144760052-304x171-show-thumbnail.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/24879-9963463377-448x252-show-thumbnail.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/24879-4152760673-608x342-show-thumbnail.jpg"
+        },
+        {
+            "id": 24881,
+            "title": "The Stinky & Dirty Show",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-01-15",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/120214/thumbnails_small/24881-2340592938-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/120214/thumbnails_medium/24881-1185689257-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/120214/thumbnails_large/24881-7569985552-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/120214/thumbnails_xlarge/24881-9739781-608x342.jpg"
+        },
+        {
+            "id": 24884,
+            "title": "Niko and the Sword of Light",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-01-15",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/120214/thumbnails_small/24884-6517077666-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/120214/thumbnails_medium/24884-973262433-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/120214/thumbnails_large/24884-8788439915-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/120214/thumbnails_xlarge/24884-2209433248-608x342.jpg"
+        },
+        {
+            "id": 31967,
+            "title": "The Kicks",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-06-26",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/31967-615001079-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/31967-9371148212-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/31967-4381188992-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/31967-6743593211-608x342.jpg"
+        },
+        {
+            "id": 32208,
+            "title": "Lost in Oz",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-06-26",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/32208-6352945184-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/32208-8507916890-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/32208-6514511523-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/32208-4700822602-608x342.jpg"
+        },
+        {
+            "id": 34862,
+            "title": "Danger & Eggs",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-11-05",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/34862-2575776852-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/34862-3907672959-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/34862-8217057273-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/34862-5514202202-608x342.jpg"
+        },
+        {
+            "id": 34886,
+            "title": "Z",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-11-05",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/34886-2518387782-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/34886-3262504637-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/34886-4490815979-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/34886-1874421663-608x342.jpg"
+        },
+        {
+            "id": 34894,
+            "title": "Patriot",
+            "alternate_titles": [
+                "Patriot (2017)"
+            ],
+            "container_show": 0,
+            "first_aired": "2015-11-05",
+            "imdb_id": "tt4687882",
+            "tvdb": 323267,
+            "themoviedb": 64396,
+            "freebase": null,
+            "wikipedia_id": 53119174,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/34894-3759197476-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/34894-2406634847-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/34894-9534975462-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/34894-8098403634-608x342.jpg"
+        },
+        {
+            "id": 34907,
+            "title": "Good Girls Revolt",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-11-05",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 64514,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/060515/thumbnails_small/34907-927797179-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/060515/thumbnails_medium/34907-3309074319-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/060515/thumbnails_large/34907-4274668144-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/060515/thumbnails_xlarge/34907-3750247578-608x342.jpg"
+        },
+        {
+            "id": 37218,
+            "title": "Julian Fellowes Presents Doctor Thorne",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2016-05-20",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/111615/thumbnails_small/37218-3203160837-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/111615/thumbnails_medium/37218-4966685465-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/111615/thumbnails_large/37218-8934385762-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/111615/thumbnails_xlarge/37218-3339100015-608x342.jpg"
+        },
+        {
+            "id": 41564,
+            "title": "Women on Death Row",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2006-01-08",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/41564-1185654505-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/41564-9737238008-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/41564-4848870961-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/41564-9943569255-608x342.jpg"
+        },
+        {
+            "id": 41565,
+            "title": "Kidnapped",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2016-09-09",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/41565-2936525336-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/41565-7235205848-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/41565-4512216863-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/41565-2311110199-608x342.jpg"
+        },
+        {
+            "id": 41812,
+            "title": "The Extremists",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": false,
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/41812-1451924751-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/41812-2977973754-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/41812-9134152699-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/41812-7244109269-608x342.jpg"
+        },
+        {
+            "id": 41854,
+            "title": "How Far Will You Go?",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2009-02-13",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/41854-4830775182-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/41854-3562331088-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/41854-6876608608-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/41854-750388392-608x342.jpg"
+        },
+        {
+            "id": 43167,
+            "title": "Continuum",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2012-02-21",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/091716/thumbnails_small/43167-128124320-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/091716/thumbnails_medium/43167-9037899-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/091716/thumbnails_large/43167-1802780633-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/091716/thumbnails_xlarge/43167-3252351727-608x342.jpg"
+        },
+        {
+            "id": 46025,
+            "title": "Wingmen",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2017-07-26",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/46025-3098729733-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/46025-2593617104-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/46025-6040251395-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/46025-2568036276-608x342.jpg"
+        },
+        {
+            "id": 46199,
+            "title": "Aftermath (2017)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2017-11-13",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/46199-429231730-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/46199-3475662465-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/46199-9937429586-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/46199-6624605679-608x342.jpg"
+        },
+        {
+            "id": 47265,
+            "title": "The Cops",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "1998-10-26",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/47265-5094580343-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/47265-5033731810-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/47265-9697860195-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/47265-8162322440-608x342.jpg"
+        },
+        {
+            "id": 47945,
+            "title": "Thicker Than Water",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2016-11-14",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/47945-5258920197-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/47945-7076272471-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/47945-2429593392-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/47945-4254542738-608x342.jpg"
+        },
+        {
+            "id": 48012,
+            "title": "I Love You",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2017-02-21",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/48012-2144495775-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/48012-2737829890-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/48012-2137014545-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/48012-9346904484-608x342.jpg"
+        },
+        {
+            "id": 48718,
+            "title": "Black Widows (Finnish)",
+            "alternate_titles": [
+                "Mustat lesket",
+                "Black Widows"
+            ],
+            "container_show": 0,
+            "first_aired": "2014-03-10",
+            "imdb_id": "tt2992876",
+            "tvdb": 279426,
+            "themoviedb": 64224,
+            "freebase": null,
+            "wikipedia_id": 54078752,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/48718-7032788126-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/48718-9752111821-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/48718-7533732517-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/48718-304674455-608x342.jpg"
+        },
+        {
+            "id": 49344,
+            "title": "Legacy",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "1998-10-09",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/49344-9701324594-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/49344-8651367477-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/49344-3309087143-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/49344-5083992556-608x342.jpg"
+        },
+        {
+            "id": 50524,
+            "title": "Divorce",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2012-12-16",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50524-9341024132-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50524-3122316082-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50524-5484576076-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50524-7982072546-608x342.jpg"
+        },
+        {
+            "id": 50526,
+            "title": "Stalker (Amazon)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2008-01-01",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50526-4600328151-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50526-2095659627-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50526-9456561524-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50526-4897800372-608x342.jpg"
+        },
+        {
+            "id": 50527,
+            "title": "The Code (Amazon)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2011-07-27",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50527-3421465000-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50527-2426776802-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50527-7141678245-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50527-1118735974-608x342.jpg"
+        },
+        {
+            "id": 50528,
+            "title": "Fury (Amazon)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2013-01-04",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50528-6630665092-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50528-981491199-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50528-3583206930-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50528-8248842023-608x342.jpg"
+        },
+        {
+            "id": 50529,
+            "title": "I Spy (1955)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "1955-09-24",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50529-4817951843-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50529-6994082657-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50529-9530923371-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50529-6975881345-608x342.jpg"
+        },
+        {
+            "id": 50530,
+            "title": "Rebel (Amazon)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "1959-10-04",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50530-9047397384-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50530-1244856911-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50530-2800024390-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50530-5925081298-608x342.jpg"
+        },
+        {
+            "id": 50531,
+            "title": "The Irish Mob (Amazon)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2016-09-08",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/50531-555297998-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/50531-4508116054-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/50531-6849865191-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/50531-7596808448-608x342.jpg"
+        },
+        {
+            "id": 51065,
+            "title": "Behind The Bar",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2017-08-29",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/51065-2485681181-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/51065-6655521691-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/51065-2002478070-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/51065-7051240932-608x342.jpg"
+        },
+        {
+            "id": 51631,
+            "title": "Pinkfong! Dinosaur Songs",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-11-01",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/51631-277206577-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/51631-3316858728-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/51631-3081363347-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/51631-2186931484-608x342.jpg"
+        },
+        {
+            "id": 51711,
+            "title": "Amazing Christmas Recipes For Kids",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2018-12-11",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/51711-3482038207-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/51711-291378000-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/51711-297213644-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/51711-2269891063-608x342.jpg"
+        },
+        {
+            "id": 52192,
+            "title": "The Practice (2014)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-09-01",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/52192-6211919067-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/52192-7609501322-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/52192-5744233522-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/52192-2995471745-608x342.jpg"
+        },
+        {
+            "id": 52839,
+            "title": "Homecoming",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2018-11-02",
+            "imdb_id": "tt7008682",
+            "tvdb": 350553,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/52839-8043139074-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/52839-5335680726-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/52839-7768994285-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/52839-6077321218-608x342.jpg"
+        },
+        {
+            "id": 52841,
+            "title": "Anna Karenina",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2017-10-01",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/52841-3992705993-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/52841-2868695758-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/52841-895833094-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/52841-4131942992-608x342.jpg"
+        },
+        {
+            "id": 52893,
+            "title": "Those Who Kill (2011)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2011-03-13",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/52893-3820070294-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/52893-4694141531-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/52893-5128582302-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/52893-7731400733-608x342.jpg"
+        },
+        {
+            "id": 52985,
+            "title": "Slam",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2018-10-21",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/52985-850253115-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/52985-9816032908-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/52985-2584387791-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/52985-3927291553-608x342.jpg"
+        },
+        {
+            "id": 53174,
+            "title": "Cult (2009)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2009-09-05",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/53174-1378215677-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/53174-3439602191-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/53174-8642883617-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/53174-7200628137-608x342.jpg"
+        },
+        {
+            "id": 53252,
+            "title": "Anna Karenina (2015)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2015-05-05",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/53252-2900641798-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/53252-979412385-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/53252-1510919831-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/53252-519281263-608x342.jpg"
+        },
+        {
+            "id": 53516,
+            "title": "Running Man",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2018-08-11",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/53516-2657046537-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/53516-7334964336-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/53516-5288339280-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/53516-5973537494-608x342.jpg"
+        },
+        {
+            "id": 53713,
+            "title": "Vanity Fair (2018)",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2018-09-02",
+            "imdb_id": "tt7076630",
+            "tvdb": 349513,
+            "themoviedb": 81222,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/53713-8405116079-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/53713-2928623418-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/53713-155085754-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/53713-1322372035-608x342.jpg"
+        },
+        {
+            "id": 54358,
+            "title": "Origins",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2014-09-20",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/54358-8028589715-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/54358-5084054936-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/54358-4600816928-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/54358-6506968937-608x342.jpg"
+        },
+        {
+            "id": 54430,
+            "title": "The Gamers",
+            "alternate_titles": [],
+            "container_show": 0,
+            "first_aired": "2002-11-02",
+            "imdb_id": "",
+            "tvdb": 0,
+            "themoviedb": 0,
+            "freebase": null,
+            "wikipedia_id": null,
+            "tvrage": {
+                "tvrage_id": null,
+                "link": null
+            },
+            "artwork_208x117": "http://static-api.guidebox.com/100117/thumbnails_small/54430-2003267366-208x117.jpg",
+            "artwork_304x171": "http://static-api.guidebox.com/100117/thumbnails_medium/54430-647271001-304x171.jpg",
+            "artwork_448x252": "http://static-api.guidebox.com/100117/thumbnails_large/54430-8450870416-448x252.jpg",
+            "artwork_608x342": "http://static-api.guidebox.com/100117/thumbnails_xlarge/54430-1681190599-608x342.jpg"
+        }
+    ]
+}

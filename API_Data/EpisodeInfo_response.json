@@ -1,0 +1,3531 @@
+{
+    "total_results": 249,
+    "total_returned": 25,
+    "results": [
+        {
+            "id": 21005,
+            "tvdb": 257633,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 30,
+            "special": 0,
+            "first_aired": "1968-04-01",
+            "title": "Mayberry RFD",
+            "original_title": "Mayberry RFD",
+            "alternate_titles": [],
+            "overview": "Sam brings over one of his Italian friends from the war--but unbenowst to him the friend brings over his elderly father and sister--and this creates mayhem in his family and business.",
+            "duration": 1537,
+            "production_code": "241",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-30-8--55267200-5659431866-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-30-8--55267200-8012726498-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-30-8--55267200-6094216937-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-30-8--55267200-700606951-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47471,
+                    "link": "http://movies.netflix.com/Movie/70174698"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900879,
+                    "link": "http://www.amazon.com/gp/product/B00AWMRDRY"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47471,
+                    "link": "nflx://www.netflix.com/watch/70174698",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900879,
+                    "link": "aiv://aiv/play?asin=B00AWMRDRY",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47471,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70174698",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717732,
+                    "link": "https://itunes.apple.com/us/tv-season/mayberry-rfd/id653921680?i=654653440&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900878,
+                    "link": "http://www.amazon.com/gp/product/B00AWMRDRY",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717732,
+                    "link": "itms://itunes.apple.com/us/tv-season/mayberry-rfd/id653921680?i=654653440&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21006,
+            "tvdb": 257632,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 29,
+            "special": 0,
+            "first_aired": "1968-03-25",
+            "title": "A Girl for Goober",
+            "original_title": "A Girl for Goober",
+            "alternate_titles": [],
+            "overview": "Sam and Andy call on modern technology to finally get Goober a steady girl.",
+            "duration": 1539,
+            "production_code": "249",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-29-8--55872000-3852931252-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-29-8--55872000-5759452395-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-29-8--55872000-1654771678-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-29-8--55872000-144149098-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47479,
+                    "link": "http://movies.netflix.com/Movie/70174697"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900877,
+                    "link": "http://www.amazon.com/gp/product/B00AWMOCO6"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47479,
+                    "link": "nflx://www.netflix.com/watch/70174697",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900877,
+                    "link": "aiv://aiv/play?asin=B00AWMOCO6",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47479,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70174697",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717731,
+                    "link": "https://itunes.apple.com/us/tv-season/a-girl-for-goober/id653921680?i=654909470&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900876,
+                    "link": "http://www.amazon.com/gp/product/B00AWMOCO6",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717731,
+                    "link": "itms://itunes.apple.com/us/tv-season/a-girl-for-goober/id653921680?i=654909470&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21007,
+            "tvdb": 257631,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 28,
+            "special": 0,
+            "first_aired": "1968-03-18",
+            "title": "Opie and Mike",
+            "original_title": "Opie and Mike",
+            "alternate_titles": [],
+            "overview": "Opie helps Mike learn how to deal with a bully at school.",
+            "duration": 1539,
+            "production_code": "248",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-28-8--56476800-2250685063-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-28-8--56476800-7290076990-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-28-8--56476800-7396757221-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-28-8--56476800-7977321995-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47486,
+                    "link": "http://movies.netflix.com/Movie/70156200"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900875,
+                    "link": "http://www.amazon.com/gp/product/B00AWMRABI"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47486,
+                    "link": "nflx://www.netflix.com/watch/70156200",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900875,
+                    "link": "aiv://aiv/play?asin=B00AWMRABI",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47486,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156200",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717730,
+                    "link": "https://itunes.apple.com/us/tv-season/opie-and-mike/id653921680?i=654953863&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900874,
+                    "link": "http://www.amazon.com/gp/product/B00AWMRABI",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717730,
+                    "link": "itms://itunes.apple.com/us/tv-season/opie-and-mike/id653921680?i=654953863&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21008,
+            "tvdb": 257630,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 27,
+            "special": 0,
+            "first_aired": "1968-03-11",
+            "title": "Sam for Town Council",
+            "original_title": "Sam for Town Council",
+            "alternate_titles": [],
+            "overview": "Sam runs against Emmett for office.",
+            "duration": 1537,
+            "production_code": "247",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-27-8--57081600-7766657187-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-27-8--57081600-4640003978-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-27-8--57081600-5675858250-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-27-8--57081600-7324242098-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47493,
+                    "link": "http://movies.netflix.com/Movie/70156199"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900873,
+                    "link": "http://www.amazon.com/gp/product/B00AWMBD02"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47493,
+                    "link": "nflx://www.netflix.com/watch/70156199",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900873,
+                    "link": "aiv://aiv/play?asin=B00AWMBD02",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47493,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156199",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717729,
+                    "link": "https://itunes.apple.com/us/tv-season/sam-for-town-council/id653921680?i=654885472&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900872,
+                    "link": "http://www.amazon.com/gp/product/B00AWMBD02",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717729,
+                    "link": "itms://itunes.apple.com/us/tv-season/sam-for-town-council/id653921680?i=654885472&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21009,
+            "tvdb": 257629,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 26,
+            "special": 0,
+            "first_aired": "1968-03-04",
+            "title": "The Wedding",
+            "original_title": "The Wedding",
+            "alternate_titles": [],
+            "overview": "Thanks to his mother's sudden and unexpected wedding, Howard is at long last on his own!",
+            "duration": 1533,
+            "production_code": "246",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-26-8--57686400-216183337-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-26-8--57686400-3086982039-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-26-8--57686400-2489169278-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-26-8--57686400-383599038-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47500,
+                    "link": "http://movies.netflix.com/Movie/70174696"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900871,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGT60"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47500,
+                    "link": "nflx://www.netflix.com/watch/70174696",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900871,
+                    "link": "aiv://aiv/play?asin=B00AWMGT60",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47500,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70174696",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717728,
+                    "link": "https://itunes.apple.com/us/tv-season/the-wedding/id653921680?i=654960077&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900870,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGT60",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717728,
+                    "link": "itms://itunes.apple.com/us/tv-season/the-wedding/id653921680?i=654960077&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21010,
+            "tvdb": 257628,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 25,
+            "special": 0,
+            "first_aired": "1968-02-26",
+            "title": "Emmett's Anniversary",
+            "original_title": "Emmett's Anniversary",
+            "alternate_titles": [],
+            "overview": "It's Emmet's 25th wedding anniversary and his intentions outweigh his bank account!",
+            "duration": 1511,
+            "production_code": "245",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-25-8--58291200-5390261454-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-25-8--58291200-8659663489-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-25-8--58291200-4171978985-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-25-8--58291200-9731395067-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47507,
+                    "link": "http://movies.netflix.com/Movie/70156198"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 901472,
+                    "link": "http://www.amazon.com/gp/product/B00AWMOFO8"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47507,
+                    "link": "nflx://www.netflix.com/watch/70156198",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 901472,
+                    "link": "aiv://aiv/play?asin=B00AWMOFO8",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47507,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156198",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717727,
+                    "link": "https://itunes.apple.com/us/tv-season/emmetts-anniversary/id653921680?i=654940232&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 901473,
+                    "link": "http://www.amazon.com/gp/product/B00AWMOFO8",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717727,
+                    "link": "itms://itunes.apple.com/us/tv-season/emmetts-anniversary/id653921680?i=654940232&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21011,
+            "tvdb": 257627,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 24,
+            "special": 0,
+            "first_aired": "1968-02-19",
+            "title": "Helen's Past",
+            "original_title": "Helen's Past",
+            "alternate_titles": [],
+            "overview": "As Andy is looking through Helen's old newspaper clippings, he finds one of her being taken to jail by the police.  He decides to keep his discovery secret until it leaks out to the school board which could destroy Helen's teaching career.",
+            "duration": 1542,
+            "production_code": "244",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-24-8--58896000-2916063201-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-24-8--58896000-6387531995-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-24-8--58896000-1182344123-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-24-8--58896000-4314304129-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47516,
+                    "link": "http://movies.netflix.com/Movie/70156197"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900868,
+                    "link": "http://www.amazon.com/gp/product/B00AWMMFC2"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47516,
+                    "link": "nflx://www.netflix.com/watch/70156197",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900868,
+                    "link": "aiv://aiv/play?asin=B00AWMMFC2",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47516,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156197",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717726,
+                    "link": "https://itunes.apple.com/us/tv-season/helens-past/id653921680?i=654938264&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900867,
+                    "link": "http://www.amazon.com/gp/product/B00AWMMFC2",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717726,
+                    "link": "itms://itunes.apple.com/us/tv-season/helens-past/id653921680?i=654938264&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21012,
+            "tvdb": 257626,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 23,
+            "special": 0,
+            "first_aired": "1968-02-12",
+            "title": "Aunt Bee's Big Moment",
+            "original_title": "Aunt Bee's Big Moment",
+            "alternate_titles": [],
+            "overview": "Aunt Bee takes flying lessons, but doesn't feel ready to fly solo.",
+            "duration": 1511,
+            "production_code": "243",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-23-8--59500800-8211274263-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-23-8--59500800-970794321-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-23-8--59500800-2879148429-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-23-8--59500800-7891628756-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47522,
+                    "link": "http://movies.netflix.com/Movie/70174695"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900866,
+                    "link": "http://www.amazon.com/gp/product/B00AWMO2TG"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47522,
+                    "link": "nflx://www.netflix.com/watch/70174695",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900866,
+                    "link": "aiv://aiv/play?asin=B00AWMO2TG",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47522,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70174695",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717725,
+                    "link": "https://itunes.apple.com/us/tv-season/aunt-bees-big-moment/id653921680?i=654963860&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900865,
+                    "link": "http://www.amazon.com/gp/product/B00AWMO2TG",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717725,
+                    "link": "itms://itunes.apple.com/us/tv-season/aunt-bees-big-moment/id653921680?i=654963860&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21013,
+            "tvdb": 257625,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 22,
+            "special": 0,
+            "first_aired": "1968-02-05",
+            "title": "Goober Goes to the Auto Show",
+            "original_title": "Goober Goes to the Auto Show",
+            "alternate_titles": [],
+            "overview": "An old friend makes Goober feel worthless.",
+            "duration": 1541,
+            "production_code": "242",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-22-8--60105600-3323196490-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-22-8--60105600-3950221045-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-22-8--60105600-3967314959-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-22-8--60105600-9893705295-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47534,
+                    "link": "http://movies.netflix.com/Movie/70156196"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900864,
+                    "link": "http://www.amazon.com/gp/product/B00AWMR0FY"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47534,
+                    "link": "nflx://www.netflix.com/watch/70156196",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900864,
+                    "link": "aiv://aiv/play?asin=B00AWMR0FY",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47534,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156196",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717724,
+                    "link": "https://itunes.apple.com/us/tv-season/goober-goes-to-the-auto-show/id653921680?i=654997087&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900863,
+                    "link": "http://www.amazon.com/gp/product/B00AWMR0FY",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717724,
+                    "link": "itms://itunes.apple.com/us/tv-season/goober-goes-to-the-auto-show/id653921680?i=654997087&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21014,
+            "tvdb": 257624,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 21,
+            "special": 0,
+            "first_aired": "1968-01-29",
+            "title": "Barney Hosts a Summit Meeting",
+            "original_title": "Barney Hosts a Summit Meeting",
+            "alternate_titles": [],
+            "overview": "An international summit is in the hands of Barney.",
+            "duration": 1541,
+            "production_code": "240",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-21-8--60710400-190137425-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-21-8--60710400-2908092593-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-21-8--60710400-2102610437-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-21-8--60710400-8665762962-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47538,
+                    "link": "http://movies.netflix.com/Movie/70156195"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900862,
+                    "link": "http://www.amazon.com/gp/product/B00AWM9S72"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47538,
+                    "link": "nflx://www.netflix.com/watch/70156195",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900862,
+                    "link": "aiv://aiv/play?asin=B00AWM9S72",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47538,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156195",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717723,
+                    "link": "https://itunes.apple.com/us/tv-season/barney-hosts-a-summit-meeting/id653921680?i=654859083&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900860,
+                    "link": "http://www.amazon.com/gp/product/B00AWM9S72",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717723,
+                    "link": "itms://itunes.apple.com/us/tv-season/barney-hosts-a-summit-meeting/id653921680?i=654859083&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21015,
+            "tvdb": 257623,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 20,
+            "special": 0,
+            "first_aired": "1968-01-22",
+            "title": "The Church Benefactors",
+            "original_title": "The Church Benefactors",
+            "alternate_titles": [],
+            "overview": "A $500 donation to the church causes conflict.",
+            "duration": 1492,
+            "production_code": "238",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-20-8--61315200-8202863922-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-20-8--61315200-9002309530-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-20-8--61315200-239206017-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-20-8--61315200-6893813261-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47546,
+                    "link": "http://movies.netflix.com/Movie/70174694"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900859,
+                    "link": "http://www.amazon.com/gp/product/B00AWMLMYY"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47546,
+                    "link": "nflx://www.netflix.com/watch/70174694",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900859,
+                    "link": "aiv://aiv/play?asin=B00AWMLMYY",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47546,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70174694",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717722,
+                    "link": "https://itunes.apple.com/us/tv-season/the-church-benefactor/id653921680?i=654761095&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900858,
+                    "link": "http://www.amazon.com/gp/product/B00AWMLMYY",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717722,
+                    "link": "itms://itunes.apple.com/us/tv-season/the-church-benefactor/id653921680?i=654761095&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21016,
+            "tvdb": 257622,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 19,
+            "special": 0,
+            "first_aired": "1968-01-15",
+            "title": "Opie's Drugstore Job",
+            "original_title": "Opie's Drugstore Job",
+            "alternate_titles": [],
+            "overview": "Opie gets a job working at the drugstore and learns that everyone makes mistakes.",
+            "duration": 1539,
+            "production_code": "239",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-19-8--61920000-3962316318-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-19-8--61920000-657081213-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-19-8--61920000-5898637883-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-19-8--61920000-8625628207-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47551,
+                    "link": "http://movies.netflix.com/Movie/70156194"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900857,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGUGO"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47551,
+                    "link": "nflx://www.netflix.com/watch/70156194",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900857,
+                    "link": "aiv://aiv/play?asin=B00AWMGUGO",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47551,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156194",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717721,
+                    "link": "https://itunes.apple.com/us/tv-season/opies-drugstore-job/id653921680?i=654710832&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900856,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGUGO",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717721,
+                    "link": "itms://itunes.apple.com/us/tv-season/opies-drugstore-job/id653921680?i=654710832&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21017,
+            "tvdb": 257621,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 18,
+            "special": 0,
+            "first_aired": "1968-01-08",
+            "title": "Emmett's Brother-In-Law",
+            "original_title": "Emmett's Brother-In-Law",
+            "alternate_titles": [],
+            "overview": "In order to increase his income, Emmett closes his beloved fix-it shop and starts selling insurance.",
+            "duration": 1540,
+            "production_code": "817",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-18-8--62524800-1252393308-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-18-8--62524800-8053838433-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-18-8--62524800-9751569135-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-18-8--62524800-7712662741-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47558,
+                    "link": "http://movies.netflix.com/Movie/70156192"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900855,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGVLI"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47558,
+                    "link": "nflx://www.netflix.com/watch/70156192",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900855,
+                    "link": "aiv://aiv/play?asin=B00AWMGVLI",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47558,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156192",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717720,
+                    "link": "https://itunes.apple.com/us/tv-season/emmetts-brother-in-law/id653921680?i=654866898&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900854,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGVLI",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717720,
+                    "link": "itms://itunes.apple.com/us/tv-season/emmetts-brother-in-law/id653921680?i=654866898&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21018,
+            "tvdb": 257620,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 17,
+            "special": 0,
+            "first_aired": "1968-01-01",
+            "title": "The Mayberry Chef",
+            "original_title": "The Mayberry Chef",
+            "alternate_titles": [],
+            "overview": "Aunt Bee hosts a cooking show, but Andy and Opie suffer at suppertime.",
+            "duration": 1539,
+            "production_code": "237",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-17-8--63129600-5892397286-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-17-8--63129600-3729696684-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-17-8--63129600-2002254203-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-17-8--63129600-4282204975-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47564,
+                    "link": "http://movies.netflix.com/Movie/70156193"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900853,
+                    "link": "http://www.amazon.com/gp/product/B00AWMMB8U"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47564,
+                    "link": "nflx://www.netflix.com/watch/70156193",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900853,
+                    "link": "aiv://aiv/play?asin=B00AWMMB8U",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47564,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156193",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717719,
+                    "link": "https://itunes.apple.com/us/tv-season/the-mayberry-chef/id653921680?i=654673007&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900852,
+                    "link": "http://www.amazon.com/gp/product/B00AWMMB8U",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717719,
+                    "link": "itms://itunes.apple.com/us/tv-season/the-mayberry-chef/id653921680?i=654673007&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21019,
+            "tvdb": 257619,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 16,
+            "special": 0,
+            "first_aired": "1967-12-25",
+            "title": "Goober The Executive",
+            "original_title": "Goober The Executive",
+            "alternate_titles": [],
+            "overview": "Goober buys the gas station with financial backing from Andy and Emmett.",
+            "duration": 1519,
+            "production_code": "221",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-16-8--63734400-8979379325-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-16-8--63734400-6218865961-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-16-8--63734400-9768911390-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-16-8--63734400-7995925112-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47571,
+                    "link": "http://movies.netflix.com/Movie/70156179"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900851,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGRJY"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47571,
+                    "link": "nflx://www.netflix.com/watch/70156179",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900851,
+                    "link": "aiv://aiv/play?asin=B00AWMGRJY",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47571,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156179",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717718,
+                    "link": "https://itunes.apple.com/us/tv-season/goober-the-executive/id653921680?i=655300804&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900850,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGRJY",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717718,
+                    "link": "itms://itunes.apple.com/us/tv-season/goober-the-executive/id653921680?i=655300804&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21020,
+            "tvdb": 257618,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 15,
+            "special": 0,
+            "first_aired": "1967-12-18",
+            "title": "Howard's New Life",
+            "original_title": "Howard's New Life",
+            "alternate_titles": [],
+            "overview": "Howard quits his boring job as county clerk and becomes a Caribbean island beachcomber.",
+            "duration": 1541,
+            "production_code": "235",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-15-8--64339200-7639042814-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-15-8--64339200-390844946-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-15-8--64339200-9985094727-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-15-8--64339200-4698923402-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47580,
+                    "link": "http://movies.netflix.com/Movie/70174693"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900849,
+                    "link": "http://www.amazon.com/gp/product/B00AWMH8S8"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47580,
+                    "link": "nflx://www.netflix.com/watch/70174693",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900849,
+                    "link": "aiv://aiv/play?asin=B00AWMH8S8",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47580,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70174693",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717717,
+                    "link": "https://itunes.apple.com/us/tv-season/howards-new-life/id653921680?i=654694946&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900848,
+                    "link": "http://www.amazon.com/gp/product/B00AWMH8S8",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717717,
+                    "link": "itms://itunes.apple.com/us/tv-season/howards-new-life/id653921680?i=654694946&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21021,
+            "tvdb": 257617,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 14,
+            "special": 0,
+            "first_aired": "1967-12-11",
+            "title": "Andy Gets Sick",
+            "original_title": "Andy Gets Sick",
+            "alternate_titles": [],
+            "overview": "Andy catches the flu and Goober takes over as his deputy.",
+            "duration": 1540,
+            "production_code": "232",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-14-8--64944000-4026574814-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-14-8--64944000-1573189069-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-14-8--64944000-5375356181-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-14-8--64944000-644230969-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47587,
+                    "link": "http://movies.netflix.com/Movie/70156189"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 901475,
+                    "link": "http://www.amazon.com/gp/product/B00AWMNAOO"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47587,
+                    "link": "nflx://www.netflix.com/watch/70156189",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 901475,
+                    "link": "aiv://aiv/play?asin=B00AWMNAOO",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47587,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156189",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 718211,
+                    "link": "https://itunes.apple.com/us/tv-season/suppose-andy-gets-sick/id653921680?i=655333514&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 901474,
+                    "link": "http://www.amazon.com/gp/product/B00AWMNAOO",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 718211,
+                    "link": "itms://itunes.apple.com/us/tv-season/suppose-andy-gets-sick/id653921680?i=655333514&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21022,
+            "tvdb": 257616,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 13,
+            "special": 0,
+            "first_aired": "1967-12-04",
+            "title": "Aunt Bee's Cousin",
+            "original_title": "Aunt Bee's Cousin",
+            "alternate_titles": [],
+            "overview": "Andy learns the truth when he sees his cousin Bradford alight from a freight train but keeps quiet because Aunt Bee thinks he's a wealthy relative.",
+            "duration": 1542,
+            "production_code": "234",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-13-8--65548800-4997369135-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-13-8--65548800-4452337497-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-13-8--65548800-8291419381-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-13-8--65548800-2061705063-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47595,
+                    "link": "http://movies.netflix.com/Movie/70156191"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900846,
+                    "link": "http://www.amazon.com/gp/product/B00AWMLSYS"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47595,
+                    "link": "nflx://www.netflix.com/watch/70156191",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900846,
+                    "link": "aiv://aiv/play?asin=B00AWMLSYS",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47595,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156191",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717716,
+                    "link": "https://itunes.apple.com/us/tv-season/aunt-bees-cousin/id653921680?i=654816619&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900845,
+                    "link": "http://www.amazon.com/gp/product/B00AWMLSYS",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717716,
+                    "link": "itms://itunes.apple.com/us/tv-season/aunt-bees-cousin/id653921680?i=654816619&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21023,
+            "tvdb": 257615,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 12,
+            "special": 0,
+            "first_aired": "1967-11-27",
+            "title": "Howard and Millie",
+            "original_title": "Howard and Millie",
+            "alternate_titles": [],
+            "overview": "Howard proposes to Millie at the bakery where she works.",
+            "duration": 1542,
+            "production_code": "233",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-12-8--66153600-8947590184-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-12-8--66153600-8419652460-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-12-8--66153600-6502693649-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-12-8--66153600-3305572663-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47603,
+                    "link": "http://movies.netflix.com/Movie/70156190"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900844,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGPWI"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47603,
+                    "link": "nflx://www.netflix.com/watch/70156190",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900844,
+                    "link": "aiv://aiv/play?asin=B00AWMGPWI",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47603,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156190",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717715,
+                    "link": "https://itunes.apple.com/us/tv-season/howard-and-millie/id653921680?i=654716485&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900843,
+                    "link": "http://www.amazon.com/gp/product/B00AWMGPWI",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717715,
+                    "link": "itms://itunes.apple.com/us/tv-season/howard-and-millie/id653921680?i=654716485&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21024,
+            "tvdb": 257614,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 11,
+            "special": 0,
+            "first_aired": "1967-11-20",
+            "title": "Andy's Investment",
+            "original_title": "Andy's Investment",
+            "alternate_titles": [],
+            "overview": "Andy opens a coin laundry to save money for Opie's college education.",
+            "duration": 1538,
+            "production_code": "231",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-11-8--66758400-1855682778-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-11-8--66758400-522262897-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-11-8--66758400-9825890138-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-11-8--66758400-8461558898-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47610,
+                    "link": "http://movies.netflix.com/Movie/70156188"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900842,
+                    "link": "http://www.amazon.com/gp/product/B00AWMMG6W"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47610,
+                    "link": "nflx://www.netflix.com/watch/70156188",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900842,
+                    "link": "aiv://aiv/play?asin=B00AWMMG6W",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47610,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156188",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717714,
+                    "link": "https://itunes.apple.com/us/tv-season/andys-investment/id653921680?i=654738583&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900841,
+                    "link": "http://www.amazon.com/gp/product/B00AWMMG6W",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717714,
+                    "link": "itms://itunes.apple.com/us/tv-season/andys-investment/id653921680?i=654738583&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21025,
+            "tvdb": 257613,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 10,
+            "special": 0,
+            "first_aired": "1967-11-13",
+            "title": "Aunt Bee And The Lecturer",
+            "original_title": "Aunt Bee And The Lecturer",
+            "alternate_titles": [],
+            "overview": "A visiting professor is attracted to Aunt Bee because she resembles his deceased wife.",
+            "duration": 1539,
+            "production_code": "230",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-10-8--67363200-857992308-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-10-8--67363200-761468914-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-10-8--67363200-16027564-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-10-8--67363200-8417569422-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47613,
+                    "link": "http://movies.netflix.com/Movie/70156187"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900840,
+                    "link": "http://www.amazon.com/gp/product/B00AWMR3BU"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47613,
+                    "link": "nflx://www.netflix.com/watch/70156187",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900840,
+                    "link": "aiv://aiv/play?asin=B00AWMR3BU",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47613,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156187",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717713,
+                    "link": "https://itunes.apple.com/us/tv-season/aunt-bee-and-the-lecturer/id653921680?i=654797584&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900839,
+                    "link": "http://www.amazon.com/gp/product/B00AWMR3BU",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717713,
+                    "link": "itms://itunes.apple.com/us/tv-season/aunt-bee-and-the-lecturer/id653921680?i=654797584&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21026,
+            "tvdb": 257612,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 9,
+            "special": 0,
+            "first_aired": "1967-11-06",
+            "title": "Opie's Group",
+            "original_title": "Opie's Group",
+            "alternate_titles": [],
+            "overview": "Opie joins a rock-and-roll group and starts getting failing grades in school.",
+            "duration": 1539,
+            "production_code": "229",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-9-8--67968000-1515073520-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-9-8--67968000-6660106797-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-9-8--67968000-8218891490-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-9-8--67968000-3301980323-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47619,
+                    "link": "http://movies.netflix.com/Movie/70156186"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900838,
+                    "link": "http://www.amazon.com/gp/product/B00AWMPZU6"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47619,
+                    "link": "nflx://www.netflix.com/watch/70156186",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900838,
+                    "link": "aiv://aiv/play?asin=B00AWMPZU6",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47619,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156186",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717712,
+                    "link": "https://itunes.apple.com/us/tv-season/opies-group/id653921680?i=654845025&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900837,
+                    "link": "http://www.amazon.com/gp/product/B00AWMPZU6",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717712,
+                    "link": "itms://itunes.apple.com/us/tv-season/opies-group/id653921680?i=654845025&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21027,
+            "tvdb": 257611,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 8,
+            "special": 0,
+            "first_aired": "1967-10-30",
+            "title": "Tape Recorder",
+            "original_title": "Tape Recorder",
+            "alternate_titles": [],
+            "overview": "Opie and Arnold record a prisoner telling the whereabouts of the money from a bank robbery.",
+            "duration": 1539,
+            "production_code": "228",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-8-8--68572800-9568911958-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-8-8--68572800-6411675932-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-8-8--68572800-2181207808-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-8-8--68572800-62491852-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47627,
+                    "link": "http://movies.netflix.com/Movie/70156185"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900836,
+                    "link": "http://www.amazon.com/gp/product/B00AWMLMSU"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47627,
+                    "link": "nflx://www.netflix.com/watch/70156185",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900836,
+                    "link": "aiv://aiv/play?asin=B00AWMLMSU",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47627,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156185",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717711,
+                    "link": "https://itunes.apple.com/us/tv-season/the-tape-recorder/id653921680?i=654658186&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900835,
+                    "link": "http://www.amazon.com/gp/product/B00AWMLMSU",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717711,
+                    "link": "itms://itunes.apple.com/us/tv-season/the-tape-recorder/id653921680?i=654658186&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21028,
+            "tvdb": 257610,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 7,
+            "special": 0,
+            "first_aired": "1967-10-23",
+            "title": "Aunt Bee, The Juror",
+            "original_title": "Aunt Bee, The Juror",
+            "alternate_titles": [],
+            "overview": "Aunt Bee, summoned for jury duty, disagrees with fellow jurors on her first case.",
+            "duration": 1520,
+            "production_code": "223",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-7-8--69181200-3298608642-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-7-8--69181200-8413930135-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-7-8--69181200-3433601121-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-7-8--69181200-2888087249-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47631,
+                    "link": "http://movies.netflix.com/Movie/70156181"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900834,
+                    "link": "http://www.amazon.com/gp/product/B00AWMQF0A"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47631,
+                    "link": "nflx://www.netflix.com/watch/70156181",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900834,
+                    "link": "aiv://aiv/play?asin=B00AWMQF0A",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47631,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156181",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717710,
+                    "link": "https://itunes.apple.com/us/tv-season/aunt-bee-the-juror/id653921680?i=654854386&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900833,
+                    "link": "http://www.amazon.com/gp/product/B00AWMQF0A",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717710,
+                    "link": "itms://itunes.apple.com/us/tv-season/aunt-bee-the-juror/id653921680?i=654854386&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        },
+        {
+            "id": 21029,
+            "tvdb": 257609,
+            "content_type": "Full Episode",
+            "is_shadow": 0,
+            "alternate_tvdb": [],
+            "imdb_id": "",
+            "themoviedb": 0,
+            "show_id": 1948,
+            "season_number": 8,
+            "episode_number": 6,
+            "special": 0,
+            "first_aired": "1967-10-16",
+            "title": "Howard's Main Event",
+            "original_title": "Howard's Main Event",
+            "alternate_titles": [],
+            "overview": "Howard, dating Millie, is threatened by her husky former boyfriend",
+            "duration": 1539,
+            "production_code": "222",
+            "thumbnail_208x117": "http://static-api.guidebox.com/thumbnails_episodes/1948-6-8--69786000-9517474607-small-208x117.jpg",
+            "thumbnail_304x171": "http://static-api.guidebox.com/thumbnails_episodes/1948-6-8--69786000-8182841525-medium-304x171.jpg",
+            "thumbnail_400x225": "http://static-api.guidebox.com/thumbnails_episodes/1948-6-8--69786000-9325998406-large-400x225.jpg",
+            "thumbnail_608x342": "http://static-api.guidebox.com/thumbnails_episodes/1948-6-8--69786000-6329488479-xlarge-608x342.jpg",
+            "free_web_sources": [],
+            "free_ios_sources": [],
+            "free_android_sources": [],
+            "tv_everywhere_web_sources": [],
+            "tv_everywhere_ios_sources": [],
+            "tv_everywhere_android_sources": [],
+            "subscription_web_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47640,
+                    "link": "http://movies.netflix.com/Movie/70156180"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900832,
+                    "link": "http://www.amazon.com/gp/product/B00AWMEEIA"
+                }
+            ],
+            "subscription_ios_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47640,
+                    "link": "nflx://www.netflix.com/watch/70156180",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/netflix/id363590051"
+                },
+                {
+                    "source": "amazon_prime",
+                    "display_name": "Amazon Prime",
+                    "id": 900832,
+                    "link": "aiv://aiv/play?asin=B00AWMEEIA",
+                    "app_name": "Amazon Instant Video",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://itunes.apple.com/app/amazon-instant-video/id545519333"
+                }
+            ],
+            "subscription_android_sources": [
+                {
+                    "source": "netflix",
+                    "display_name": "Netflix",
+                    "id": 47640,
+                    "link": "nflx://www.netflix.com/Browse?q=action%3Dplay%26source%3Ddevice%26movieid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fseries%2F70155574%26episodeid%3Dhttp%3A%2F%2Fapi-public.netflix.com%2Fcatalog%2Ftitles%2Fprograms%2F70156180",
+                    "app_name": "Netflix",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en"
+                }
+            ],
+            "purchase_web_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717709,
+                    "link": "https://itunes.apple.com/us/tv-season/howards-main-event/id653921680?i=654662319&at=10laHb",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "source": "amazon_buy",
+                    "display_name": "Amazon",
+                    "id": 900831,
+                    "link": "http://www.amazon.com/gp/product/B00AWMEEIA",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_ios_sources": [
+                {
+                    "source": "itunes",
+                    "display_name": "iTunes",
+                    "id": 717709,
+                    "link": "itms://itunes.apple.com/us/tv-season/howards-main-event/id653921680?i=654662319&at=10laHb",
+                    "app_name": "iTunes",
+                    "app_link": 1,
+                    "app_required": 1,
+                    "app_download_link": "itms-apps://",
+                    "formats": [
+                        {
+                            "price": "0.99",
+                            "format": "SD",
+                            "type": "purchase"
+                        },
+                        {
+                            "price": "0.99",
+                            "format": "HD",
+                            "type": "purchase"
+                        }
+                    ]
+                }
+            ],
+            "purchase_android_sources": []
+        }
+    ]
+}

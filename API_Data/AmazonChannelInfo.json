@@ -1,0 +1,29 @@
+{
+    "id": 140,
+    "name": "Amazon",
+    "short_name": "amazon",
+    "channel_type": "online",
+    "artwork_208x117": "http://static-api.guidebox.com/041014/thumbnails_small/140-8624025415-208x117-channel.jpg",
+    "artwork_304x171": "http://static-api.guidebox.com/041014/thumbnails_medium/140-2284897161-304x171-channel.jpg",
+    "artwork_448x252": "http://static-api.guidebox.com/041014/thumbnails_large/140-6702848975-448x252-channel.jpg",
+    "artwork_608x342": "http://static-api.guidebox.com/041014/thumbnails_xlarge/140-5569024100-608x342-channel.jpg",
+    "external_ids": {
+        "imdb": null,
+        "wikipedia_id": null
+    },
+    "social": {
+        "facebook": {
+            "facebook_id": null,
+            "link": null
+        },
+        "twitter": {
+            "twitter_id": null,
+            "link": null
+        }
+    },
+    "live_stream": {
+        "web": [],
+        "ios": [],
+        "android": []
+    }
+}

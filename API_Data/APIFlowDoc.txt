@@ -1,0 +1,42 @@
+GuideBox API Calls and Notes
+
+---  Get Show Data
+---  Import data into our DB
+---  Parse that response
+---  Then pull specific episode data to get channels/URLs
+---  Update DB with episode specific data
+
+
+Headers:
+Authorization: b1ec95c5594c7d0ac4dc871755150a46e6bc54b4
+
+Sample postman call
+http://api-public.guidebox.com/v2/shows/33297/episodes?sources=subscription,amazon_prime&include_links=true
+
+Shows links:
+?sources=subscription&include_links=true
+
+##########
+Get Show Titles:
+Default returns 25
+Maximum return 250
+
+http://api-public.guidebox.com/v2/shows/
+
+Need to get total_results, pull 250 shows at a time, offset 251.  Keep running total of titles received.  Compare sum against total shows to end loop.
+
+http://api-public.guidebox.com/v2/shows?limit=250
+
+"total_results" : 28978,
+"total_returned" : 250,
+"results" : [{ "id":703, "title":"The Walking Dead"......}]
+	
+##############
+
+This will populate the DB with Shows.  Then walk through each show ID to gather Channel/subscriber/URL info	
+
+Will need to walk thorough each show by populating the show ID.  This will return all appropriate channels and links
+
+http://api-public.guidebox.com/v2/shows/1948/episodes?include_links=true
+http://api-public.guidebox.com/v2/shows/*/episodes?include_links=true
+
